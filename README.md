@@ -1,1 +1,1 @@
-# Product-Dashboard-Tableau-Project
+# 	Product Sales and Pruning unprofitable Products Dashboard 	
